@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="teiJPAnno1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            <persName corresp="#d1t_f1x_jpb">إبراهيم بن عبد الغني بن شاكر بن ماجد بن عبدالوهاب بن
+               يعقوب سعد الدين بن فخرالدين الدمياطي</persName> الأصل القاهري ويعرف كسلفه بابن
+            الجيعان <roleName>ناظر الخزانة</roleName> و<roleName>كاتبها</roleName> وأصغر اخوته
+            الخمسة الأشقاء أمهم <persName corresp="#fqd_dx5_jpb">ابنة <persName>المجد كاتب المماليك
+                  في أيام الناصر</persName></persName> كان رئيسا عاقلا محتشما وقورا محبا في العلماء
+            مكرما لهم وله مآثر حسنة منها جامع بولاق بالقرب من منظرة الحجازية وجعل فيه شيخا وصوفية
+            وأول من خطب فيه بعض الفضلاء ثم <persName>الولوي بن تقي الدين البلقيني</persName> الذي
+            ولى <roleName>قضاء الشام</roleName> بعد ثم رغب عنها لشيخ المكان واتفق لكل من الأولين
+            ماجرية في ذلك أودعتها في الحوادث وبالقرب منه له عمائر هائلة بل ملك منظرة البراحية وغيرها
+            مما صار وقفا عليه وحج غير مرة وزار بيت المقدس والخليل وتقدم في الرياسة وصاهر <persName
+               corresp="#yhf_m1x_jpb">الجمالي بن كاتب جكم</persName> على <persName
+               corresp="#z53_jxw_jpb">أخته</persName> فاستولدها <persName corresp="#cb5_p1x_jpb"
+               >شقرا</persName> تزوجها ابن خالها <persName corresp="#clm_5bx_jpb">الكمالي ناظر
+               الجيش</persName> ثم خلفه عليها حفيد عمها <persName corresp="#mxb_pdx_jpb">البدري أبو
+               البقاء</persName> ولم يكن للجمالي مع صاحب الترجمة أمر وله <persName corresp="#qjq_4lk_kpb">ابنة</persName>
+            أكبر منها تزوجها بعض من بني مخاطة وهي من سرية له زوجها في حياته لبعض اخصائهم الخيار
+            وماتت تحته بالمدينة النبوية .
+            <note>ムハータ家の人等の抽象的な表現をどう処理するか要検討</note>
+            ومات في ليلة الجمعة ثالث عشري ربيع الأول سنة أربع وستين
+            ودفن من الغد بتربة أخيه المجد عبد الرحمن قريبا من تربة الأشرف برسباي من الصحراء بعد أن
+            صلى عليه بعد صلاة الجمعة بالأزهر ويقال انه لم يبلغ الستين رحمه الله وعفا عنه الوهاب بن
+            يعقوب سعد الدين بن فخرالدين الدمياطي
+         </p>
+         <p>
+            <persName corresp="#xmw_mfk_kpb">أحمد بن عبد الرحمن بن عبد الغني بن شاكر بن ماجد
+            شهاب الدين بن القاضي مجد الدين بن فخر الدين القاهري الشافعي</persName> ويعرف
+            كسلفه بابن الجيعان . نشأ في كنف أبيه فقرأ القرآن وغيره ، وتخرج في
+            المباشرة قليلا وباشر <roleName>الكتابة في الخانقاه البيبرسية</roleName> فلم يحمده ضعفاء
+            أهلها وكان مترفعا لا لمعنى ، وقد حج غير مرة . مات وقد جاز الأربعين
+            في ليلة الجمعة خامس عشري ذي القعدة سنة ثمان وثمانين وصلى عليه من
+            الغد بعد صلاة الجمعة بالأزهر ثم دفن بتربتهم في مشهد حافل واستقر بعده
+            في البيبرسية أخوه <persName corresp="#qj4_wfk_kpb">عبد الرحيم</persName> خاتمة بني أبيه عفا الله عنه .
+         </p>
+         <p>
+            <persName corresp="#oj4_wzj_kpb">شاكر بن عبد الغني بن شاكر بن ماجد بن عبد الوهاب بن
+               يعقوب علم الدين بن فخر الدين بن علم الدين المصري</persName> الأصل القاهري أحد الأعيان
+            ، وأكبر أشقائه الخمسة أمهم <persName corresp="#fqd_dx5_jpb">ابنة مجد الدين كاتب المماليك
+               في الأيام الناصرية</persName> ، ويعرف كسلفه بابن الجيعان . ولد في سنة تسعين وسبعمائة
+            تقريبا بالقاهرة ونشأ بها وتدرب <persName corresp="#zb2_v1k_kpb">بأبيه</persName>
+               و<persName corresp="#efq_h1k_kpb">جده لأمه</persName> وغيرهما في الخدمة المباشرة
+            وغيرها إلى أن مهر وبواسطة جده لأمه اشتهر في الدولة فإنه كان يباشر عنه إذا غاب واستقر بعد
+            والده في <roleName>كتابة الجيش</roleName> ثم قرره <persName>المؤيد</persName>
+            <roleName>بسفارة الزيني عبد الباسط في عمالة المؤيدية</roleName> واقتدى به في ذلك
+               <persName>الاشرف برسباي</persName> وفي أيامه كان يتكلم عن <persName>الزين المشار
+               إليه</persName> في الخزانة وغيرها ورقاه جدا ثم صارت الخزانة بعد اليهم مضافا لما كان
+            معهم من <roleName>استيفاء ديوان الجيش</roleName> ، ولا زال في ارتقاء وعلو إلى أن صار
+            مرجعا في الدول وعرف بجودة الرأي وحسن التدبير ووفور العقل وقوة الجنان وعدم المهابة للملوك
+            فمن دونهم من غير إخلال بالمداراة مع السكون والتواضع والبذل الخفي ، وله مآثر وقرب منها
+            الجامع الذي بالقرب من <placeName>أرض الطبالة</placeName> المعروفة الآن <placeName>ببركة
+               الرطلي</placeName> و<placeName>جامع بالخانقاه السرياقوسية</placeName> وخطبة بمكان
+            الآثار الشريف كانت نيته فيها صالحة وإن كان الوقت غير مفتقر إليها وبر كثير للفقراء وأهل
+            الحرمين بل وغالب من يقصده وقرب من المنسوبين للصلاح والاكثار من زيارتهم والتأدب معهم
+            والمبادرة لمآربهم والحفظ لأهل البيوت والتوجع لمن يتأخر منهم واستجلاب من يفهم عنه نوع
+            جفاء بالاحسان ومن محاسنه انه اضطر بالزحام للوقوف عند سبيل المؤيد بالشارع وشاعرا يقرأ على
+            المتولي للسقي فيه وظهره للمارة قصيدة له يهجو فيها بعض الاقباط من غير تعيينه فسمع منها
+            إلى أن زال الزحام ثم انصرف وأمر من معه بطلب الشاعر له إلى بيته فقال له من هذا التعس الذي
+            وصفته بما سمعته فأعلمه به وذكر له السبب المقتضي لذلك فعذره وبالغ في تقبيح المهجو ثم قال
+            أيمكنك أن تعطيني هذه القصيدة وتمحو مسودتها إن كانت وأصالحك عنه بكذا فأذعن أو معنى هذا ،
+            وليتني أعلم من يغار من الفقهاء لأبناء جنسه كهذا ، وحج مرارا وفجع بجميع اخوته فصبر . قال
+            فيه <persName>ابن تغري بردى</persName>
+            <said who="#Ibn Taghri Birdi">وهم أي الاخوة أصحاب الحل والعقد في الدولة في الباطن وإن
+               كان غيرهم في الظاهر فهم الاصل قال وبالجملة فهم أصلح أبناء جنسهم</said> انتهى . وأنجب
+            أولادا أجلهم علما وحلما وتواضعا ومحاسن الشرفي يحيى بل هو فريد في مجموعه ولم يزل على
+            وجاهته حتى مات في ليلة الجمعة رابع عشر ربيع الآخر سنة اثنتين وثمانين بمنزله ببركة الرطلي
+            وصلى عليه من الغد برحبة مصلى باب النصر في مشهد حافل جدا مع غيبة العسكر ثم دفن بتربتهم
+            جوار الاشرفية برسباي من الصحراء ورأيت له بعد مديدة مناما يشهد بخير ثم آخر ، وكان قد أجاز
+            له باستدعاء مؤرخ بشعبان سنة ست وثمانمائة من أجل اختصاص عمه <persName
+               corresp="#t5d_4yk_kpb">التاج عبد اللطيف</persName> ببعض المحدثين جماعة كثيرون منهم
+               <persName>ابن صديق</persName> و<persName>عائشة ابنة ابن عبد الهادي</persName>
+               و<persName>الزين المراغي</persName> و<persName>المجد اللغوي</persName>
+               و<persName>الصلاح الارموي</persName> و<persName>الجمال الحنبلي</persName> فاستجيز
+            لذلك رحمه الله وإيانا وعفا عنا . </p>
+         <p>
+            <persName corresp="#ddp_2bl_kpb">عبد الغني بن شاكر بن عبد الغني بن شاكر بن ماجد بن عبد
+               الوهاب ابن يعقوب الفخر بن العلم بن الفخر بن العلم الدمياطي</persName> الأصل القاهري
+            شقيق <persName>يحيى</persName> و<persName>عبد الباسط</persName> وهو الأصغر ووالد
+               <persName>التاج عبد اللطيف</persName> ويعرف كسلفه بابن الجيعان . ولد في سنة ثمان عشرة
+            وثمانمائة بالقاهرة ونشأ بها فتخرج في الكتابة بأبيه وأقربائه وباشر في جهات كالخزانة
+            والباسطية وذكر بمزيد الكرم وسعة العطاء بحيث انفرد على غالب أهل بيته بذبك مع الانهماك في
+            لذاته ولذا كثرت مخالطة عبد الوهاب بن شرف له ، وقد حج مرارا وفيه مروءة ونخوة وتناقص حاله
+            في كل ما أشرت إليه خصوصا بعد أن أثكل ولده التاجي عبد اللطيف وغيره ولم يبق له ولا لأولاده
+            ذكرعبد الغني بن شاكر بن عبد الغني بن شاكر بن ماجد بن عبد الوهاب ابن يعقوب الفخر بن العلم
+            بن الفخر بن العلم الدمياطي الأصل القاهري شقيق يحيى وعبد الباسط وهو الأصغر ووالد التاج
+            عبد اللطيف ويعرف كسلفه بابن الجيعان . ولد في سنة ثمان عشرة وثمانمائة بالقاهرة ونشأ بها
+            فتخرج في الكتابة بأبيه وأقربائه وباشر في جهات كالخزانة والباسطية وذكر بمزيد الكرم وسعة
+            العطاء بحيث انفرد على غالب أهل بيته بذبك مع الانهماك في لذاته ولذا كثرت مخالطة عبد
+            الوهاب بن شرف له ، وقد حج مرارا وفيه مروءة ونخوة وتناقص حاله في كل ما أشرت إليه خصوصا
+            بعد أن أثكل ولده التاجي عبد اللطيف وغيره ولم يبق له ولا لأولاده ذكر </p>
+         <p>
+            <persName corresp="#cb5_p1x_jpb">شقراء ابنة إبراهيم بن عبد الغنى بن شاكر بن الجيعان</persName> سبطة
+               <persName corresp="#u35_1qj_kpb">كريم الدين عبد الكريم بن كاتب جكم</persName> أمها <persName corresp="#z53_jxw_jpb">أخت الجمالي
+               ناظر الخاص</persName> ، تزوجها <persName corresp="#clm_5bx_jpb">ابن خالها الكمالي <roleName>ناظر
+                  الجيش</roleName></persName> ومات عنها فخلفه عليها حفيدها عمها <persName corresp="#mxb_pdx_jpb">أبو البقاء
+               بن الشرفي يحيى بن شاكر</persName>
+         </p>      
+         <p>
+            <persName corresp="#bhz_flk_kpb">وردشاه العلمية ابن الجيعان</persName> وكانت جل
+            حظاياه ، ماتت في ليلة الخميس حادى عشر صفر سنة احدى وتسعين
+         </p> 
+               
+            </body>
+         <back>
+            <listPerson>
+               
+               <person xml:id="fqd_dx5_jpb" sex="F">
+                  <persName>Ibnat al-Majd, katib al-mamalik in the era of al-Nasir Muhammad </persName>
+               </person>           
+
+              <!--Katib Jakam家の人々・男子-->
+               <person xml:id="yhf_m1x_jpb" sex="M">
+                  <persName>al-Jamali b. Katib Jakam</persName>
+               </person>
+               
+               <person xml:id="u35_1qj_kpb" sex="M">
+                  <persName>Karim al-Din ‘Abd al-Karim b. Katib Jakam</persName> 
+               </person>
+
+               <!--Katib Jakam家の人々・女子-->               
+               <person xml:id="z53_jxw_jpb" sex="F">
+                  <persName>sister of al-Jamali b. Katib Jakam</persName>
+               </person>
+
+               <!--Ji‘an家の人々・男子-->
+               <person>
+                  <persName xml:id="p15_zsl_kpb">‘Abd al-Basit b. Shakir b. ‘Abd al-Ghani</persName>
+               </person>
+
+               <person xml:id="ddp_2bl_kpb">
+                  <persName>‘Abd al-Ghani b. Shakir b. ‘Abd al-Ghani b. al-Ji‘an</persName>
+               </person>
+
+               <person xml:id="zb2_v1k_kpb">
+                  <persName>‘Abd al-Ghani b. Shakir b. al-Majid b. al-Ji‘an</persName>
+               </person>
+
+               <person>
+                  <persName xml:id="ef3_ftl_kpb">al-Taj ‘Abd al-Latif b. ‘Abd al-Ghani b. Shakir b. al-Ji‘an</persName>
+               </person>
+
+               <person xml:id="qj4_wfk_kpb">
+                  <persName>‘Abd al-Rahim b. ‘Abd al-Rahman b. ‘Abd al-Ghani b. al-Ji‘an</persName>
+               </person>
+               
+               <person xml:id="umn_hgk_kpb">
+                  <persName>‘Abd al-Rahman b. ‘Abd al-Ghani b. Shakir b. al-Ji‘an</persName>
+               </person>
+
+               <person xml:id="xmw_mfk_kpb">
+                  <persName>Ahmad b. ‘Abd al-Rahman b. ‘Abd al-Ghani b. al-Ji‘an</persName>
+               </person>
+               
+               <person xml:id="mxb_pdx_jpb" sex="M">
+                  <persName>al-Badri Abi al-Baqa’</persName>
+               </person>
+               
+               <person xml:id="d1t_f1x_jpb" sex="M">
+                  <persName>Ibrahim b. ‘Abd al-Ghani b. al-Ji‘an</persName>
+                  <!--5人兄弟の5番目をどう記述するか-->
+               </person>
+               
+               <person xml:id="clm_5bx_jpb" sex="M">
+                  <persName>al-Kamali nazir al-jaysh</persName>
+               </person>
+               
+               <person xml:id="oj4_wzj_kpb" sex="M">
+                  <persName>Shakir b. ‘Abd al-Ghani b. al-Ji‘an</persName>
+                  <death when="0882-04-14"/>
+               </person>
+               
+               <person xml:id="efq_h1k_kpb" sex="M">
+                  <persName>Shakirの母方の祖父</persName>
+               </person>
+               
+               <person>
+                  <persName xml:id="t5d_4yk_kpb">al-Taj ‘Abd al-Latif</persName>
+                  <note>Shakirの叔父</note>
+               </person>
+               
+               <person>
+                  <persName xml:id="r5r_5sl_kpb">Yahya b. Shakir b. ‘Abd al-Ghani</persName>
+               </person>
+               
+               <!--Ji‘an家の人々・女子-->
+               <person xml:id="cb5_p1x_jpb" sex="F">
+                  <persName>Shqara’</persName>
+               </person>
+               
+               <person xml:id="qjq_4lk_kpb" sex="F">
+                  <persName>sister of Shqara’</persName>
+               </person>
+               
+               <person xml:id="bhz_flk_kpb" sex="F">
+                  <persName>Wardshah</persName>
+               </person>
+
+               <!--著述者-->
+               <person xml:id="ibnTaghriBirdi" sex="F">
+                  <persName>Ibn Taghri Birdi</persName>
+               </person>
+
+            </listPerson>
+            
+            <listRelation>
+               <!-- mother という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="personal" name="mother" active="#fqd_dx5_jpb" passive="#d1t_f1x_jpb #oj4_wzj_kpb"></relation>
+               <relation type="personal" name="mother" active="#z53_jxw_jpb" passive="#cb5_p1x_jpb"></relation>
+               
+               <!-- father という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="personal" name="father" active="#zb2_v1k_kpb" passive="#d1t_f1x_jpb #umn_hgk_kpb #oj4_wzj_kpb"></relation>
+               <relation type="personal" name="father" active="#yhf_m1x_jpb" passive="#clm_5bx_jpb"></relation>
+               <relation type="personal" name="father" active="#d1t_f1x_jpb" passive="#cb5_p1x_jpb"></relation>
+               <relation type="personal" name="father" active="#umn_hgk_kpb" passive="#qj4_wfk_kpb #xmw_mfk_kpb"></relation>
+               <relation type="personal" name="father" active="#zb2_v1k_kpb" passive="#umn_hgk_kpb"></relation>
+               <relation type="personal" name="father" active="#ddp_2bl_kpb" passive="#t5d_4yk_kpb"></relation>
+               
+               <!-- grandFather という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="personal" name="grandFather" active="#u35_1qj_kpb" passive="#cb5_p1x_jpb"></relation>
+
+               <!-- grandDaugter という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="personal" name="grandDaughter" active="#cb5_p1x_jpb" passive="#u35_1qj_kpb"></relation>
+               
+               <!-- siblings という関係を作成し、mutualで相互を表現-->
+               <relation type="personal" name="siblings" mutual="#yhf_m1x_jpb #z53_jxw_jpb"></relation>
+               <relation type="personal" name="siblings" mutual="#xmw_mfk_kpb #qj4_wfk_kpb"></relation>
+               <relation type="personal" name="siblings" mutual="#d1t_f1x_jpb #umn_hgk_kpb #oj4_wzj_kpb"></relation>
+               <relation type="personal" name="siblings" mutual="#ddp_2bl_kpb #p15_zsl_kpb #r5r_5sl_kpb"></relation>
+               
+               <!-- spouse という関係を作成し、mutualで相互を表現-->
+               <relation type="personal" name="spouse" mutual="#d1t_f1x_jpb #z53_jxw_jpb"></relation>
+               <relation type="personal" name="spouse" mutual="#cb5_p1x_jpb #clm_5bx_jpb"></relation>
+               <relation type="personal" name="spouse" mutual="#cb5_p1x_jpb #mxb_pdx_jpb"></relation>
+               
+               <!-- maternalCousin という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="personal" name="maternalCousin" active="#cb5_p1x_jpb" passive="#clm_5bx_jpb"></relation>
+               
+               <!-- paternalCousin という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="personal" name="paternalCousin" active="#clm_5bx_jpb" passive="#cb5_p1x_jpb"></relation>
+
+               <!-- peternalUncleという関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="personal" name="paternalUncle" active="#t5d_4yk_kpb" passive="#d1t_f1x_jpb #umn_hgk_kpb #oj4_wzj_kpb"></relation>
+               
+               <!-- firstCousinOnceRemoved という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="personal" name="firstCousinOnceRemoved" active="#cb5_p1x_jpb" passive="#mxb_pdx_jpb"></relation>
+
+               <!-- mediator という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="social" name="madiator" active="#efq_h1k_kpb" passive="#oj4_wzj_kpb"></relation>
+               
+               <!-- mentor という関係を作成し、activeが主語、passiveが目的語-->
+               <relation type="social" name="mentor" active="#efq_h1k_kpb #zb2_v1k_kpb" passive="#oj4_wzj_kpb"></relation>
+            </listRelation>    
+         </back>
+
+  </text>
+</TEI>
