@@ -1,4 +1,13 @@
 {
+    "returnUrl": "https://genji.dl.itc.u-tokyo.ac.jp",
+    "returnLabel": "デジタル源氏物語",
+    "urlMain": "https://github.com/wkmisr/relationship/blob/main/Jian",
+    "urlSub": "https://genji.dl.itc.u-tokyo.ac.jp/data/tei/yosano/01.xml",
+    "imageMap": "https://genji.dl.itc.u-tokyo.ac.jp/data/vol/01/curation.json",
+    "direction": "horizontal"
+}
+
+{
     "TEI": {
         "xmlns": "http://www.tei-c.org/ns/1.0",
         "teiHeader": {
