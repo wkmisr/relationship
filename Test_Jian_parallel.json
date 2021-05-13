@@ -7,6 +7,6 @@
     "label_sub": "青空文庫・与謝野晶子訳",
     "query_main": "line[*|id]",
     "query_sub": "s[*|id]",
-    "direction": "horizontal",
+    "direction": "vertical",
     "layout": "1x1"
   }
